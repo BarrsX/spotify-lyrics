@@ -20,10 +20,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]](https://github.com/BarrsX/PS5-Availability/graphs/contributors)
-[![Forks][forks-shield]](https://github.com/BarrsX/PS5-Availability/network/members)
-[![Stargazers][stars-shield]](https://github.com/BarrsX/PS5-Availability/stargazers)
-[![Issues][issues-shield]](https://github.com/BarrsX/PS5-Availability/issues)
+[![Contributors][contributors-shield]](https://github.com/BarrsX/spotify-lyrics/graphs/contributors)
+[![Forks][forks-shield]](https://github.com/BarrsX/spotify-lyrics/network/members)
+[![Stargazers][stars-shield]](https://github.com/BarrsX/spotify-lyrics/stargazers)
+[![Issues][issues-shield]](https://github.com/BarrsX/spotify-lyrics/issues)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/xavionbarrs/)
 
 
@@ -103,7 +103,7 @@ To get a local copy up and running follow these simple steps.
 
 * Clone the repo
    ```sh
-   git clone https://github.com/BarrsX/PS5-Availability.git
+   git clone https://github.com/BarrsX/spotify-lyrics.git
    ```
 
 
@@ -125,7 +125,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Xavion Barrs - [@XayWavy](https://twitter.com/XayWavy) - xavionbarrs@gmail.com
 
-Project Link: [https://github.com/BarrsX/PS5-Availability](https://github.com/BarrsX/PS5-Availability)
+Project Link: [https://github.com/BarrsX/spotify-lyrics](https://github.com/BarrsX/spotify-lyrics)
 
 
 
