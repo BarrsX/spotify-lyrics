@@ -18,7 +18,7 @@ genius = Genius(genius_token)
 
 # Set up popup window
 sg.theme('Dark')
-layout = [[sg.Text('Press button to find lyrics to your song', key='-TOP-', size=(50, 1))],
+layout = [[sg.Text('Press button to find lyrics to your song', key='-TOP-', size=(100, 1))],
           [sg.Multiline('No lyrics available', key='-SONG-', size=(100,50))],
           [sg.Button('Find Song'), sg.Button('Quit')]]
 window = sg.Window('Song Lyrics', layout)
