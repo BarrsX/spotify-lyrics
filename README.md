@@ -80,6 +80,7 @@ Uses spotipy and lyricsgenius to find the current song playing on Spotify then f
 * [Python](https://www.python.org/)
 * [LyricsGenius](https://lyricsgenius.readthedocs.io/en/master/)
 * [Spotipy](https://spotipy.readthedocs.io/en/2.16.1/)
+* [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)
 
 
 
@@ -97,6 +98,10 @@ To get a local copy up and running follow these simple steps.
 * Spotipy
   ```sh
   pip install spotipy --upgrade
+  ```
+* Spotipy
+  ```sh
+  pip install PySimpleGUI
   ```
 
 ### Installation
