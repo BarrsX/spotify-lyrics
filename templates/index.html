@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ song }}</title>
+</head>
+<body>
+<a href="{{ url_for('index') }}"><button>Find Song</button></a>
+
+    {% for para in lyrics %}
+        <p> {{para}} </p>
+    {% endfor %}
+
+<a href="{{ url_for('index') }}"><button>Find Song</button></a>
+</body>
+</html>
