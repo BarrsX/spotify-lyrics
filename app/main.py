@@ -28,6 +28,3 @@ def index():
     lyrics = lyrics.split('\n')
     return render_template('index.html', lyrics=lyrics, song=song)
 
-
-if __name__ == "__main__":
-    app.run()
