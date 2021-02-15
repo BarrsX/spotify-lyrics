@@ -15,7 +15,7 @@ def index():
     # Get currently playing song from Spotify
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="ca70883df7f3499aa26bf8d0b195f4be",
                                                    client_secret="290d2192ab7a4b2699a731b16aa71bea",
-                                                   redirect_uri="http://example.com",
+                                                   redirect_uri="http://example.com/callback/",
                                                    scope="user-read-currently-playing"))
 
     # Use data from spotify song to find lyrics for the song
