@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Uses spotipy and lyricsgenius to find the current song playing on Spotify then finds the lyrics for the song. **You must create a Spotify and Genius account to have access to the client tokens.** Here are the links for [Genius](https://genius.com/api-clients) and [Spotify](https://developer.spotify.com/dashboard/applications).
+Uses spotipy and lyricsgenius to find the current song playing on Spotify then finds the lyrics for the song. **You must create a Spotify and Genius account to have access to the client tokens.** Here are the links for [Genius](https://genius.com/api-clients) and [Spotify](https://developer.spotify.com/dashboard/applications). My ap is [here](https://spotifygenius.herokuapp.com/) and right now only allows to see the current song I am listening to.
 
 
 ### Built With
